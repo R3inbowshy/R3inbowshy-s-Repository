@@ -1,2 +1,0 @@
-SAmple Test
-Hello World
