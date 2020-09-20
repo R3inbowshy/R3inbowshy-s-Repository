@@ -1,0 +1,9 @@
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\bin\Debug\2K_PR01p2.exe.config
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\bin\Debug\2K_PR01p2.exe
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\bin\Debug\2K_PR01p2.pdb
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\obj\Debug\2K_PR01p2.csprojAssemblyReference.cache
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\obj\Debug\_2K_PR01p2.Form1.resources
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\obj\Debug\_2K_PR01p2.Properties.Resources.resources
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\obj\Debug\2K_PR01p2.csproj.GenerateResource.cache
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\obj\Debug\2K_PR01p2.exe
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\2K_PR01\2K_PR01p2\obj\Debug\2K_PR01p2.pdb
