@@ -1,0 +1,9 @@
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\obj\Debug\2K_PR01.csprojAssemblyReference.cache
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\obj\Debug\_2K_PR01.Form1.resources
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\obj\Debug\_2K_PR01.Properties.Resources.resources
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\obj\Debug\2K_PR01.csproj.GenerateResource.cache
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\bin\Debug\2K_PR01.exe.config
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\bin\Debug\2K_PR01.exe
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\bin\Debug\2K_PR01.pdb
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\obj\Debug\2K_PR01.exe
+C:\Users\R3inbowshy\source\repos\2K_PR01\2K_PR01\obj\Debug\2K_PR01.pdb
