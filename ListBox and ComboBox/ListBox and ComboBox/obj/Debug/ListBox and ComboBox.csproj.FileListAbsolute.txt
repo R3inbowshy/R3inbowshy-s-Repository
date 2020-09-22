@@ -1,0 +1,9 @@
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\bin\Debug\ListBox and ComboBox.exe.config
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\bin\Debug\ListBox and ComboBox.exe
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\bin\Debug\ListBox and ComboBox.pdb
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\obj\Debug\ListBox and ComboBox.csprojAssemblyReference.cache
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\obj\Debug\ListBox_and_ComboBox.Form1.resources
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\obj\Debug\ListBox_and_ComboBox.Properties.Resources.resources
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\obj\Debug\ListBox and ComboBox.csproj.GenerateResource.cache
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\obj\Debug\ListBox and ComboBox.exe
+C:\Users\R3inbowshy\Desktop\Учёба\Грисман\Программирование\ListBox and ComboBox\ListBox and ComboBox\obj\Debug\ListBox and ComboBox.pdb
