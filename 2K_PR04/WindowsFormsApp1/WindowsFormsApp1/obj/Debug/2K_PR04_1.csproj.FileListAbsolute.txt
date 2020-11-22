@@ -1,0 +1,10 @@
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\2K_PR04_1.csprojAssemblyReference.cache
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\2K_PR04_1.csproj.GenerateResource.cache
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\2K_PR04_1.csproj.CoreCompileInputs.cache
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+B:\Учёба\Грисман\Программирование\2K_PR04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
